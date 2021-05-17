@@ -1,0 +1,34 @@
+{
+    "name": "mobidonia/laravel-dashboard-installer",
+    "description": "Laravel dashboard auto-installer package",
+    "type": "library",
+    "require": {
+        "php": "^7.3|^8.0",
+        "ext-json": "*",
+        "dacoto/laravel-setenv": "^2.0",
+        "laravel/framework": "^7.0|^8.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "dacoto\\LaravelInstaller\\": "src/"
+        }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "dacoto\\LaravelInstaller\\Providers\\LaravelDashboardInstallerProvider"
+            ]
+        }
+    },
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "David Cortés",
+            "email": "cortestoledanodavid@gmail.com"
+        },
+        {
+            "name": "Daniel Dimov - fork",
+            "email": "daniel@mobidonia.com"
+        }
+    ]
+}

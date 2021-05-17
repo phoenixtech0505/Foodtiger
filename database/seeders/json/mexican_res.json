@@ -1,0 +1,100 @@
+{
+    "Burrito": [{
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/3e571ad8-e161-4245-91d9-88b47d6d6770",
+        "title": "Burrito with chicken",
+        "description": "chicken on a plate, tortilla cake, rice, peppers on a plate, onion on a plate, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad ",
+        "price": "6.99"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/cc167252-968b-4cf4-9964-86c6a5feba45",
+        "title": "Burrito Veggie",
+        "price": "5.99"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/c0895e35-f4f9-4113-96d7-ecae6d27ed2b",
+        "title": "Burrito with beef roast",
+        "description": "veal or minced meat (specify), tortilla bread, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce, or hot spit at will ",
+        "price": "8.49"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/4384df9b-9656-49d1-bfc1-9b5e85e1193a",
+        "title": "Burrito with pork",
+        "description": "pork roast, tortilla bread, rice, plate peppers, plate onion, red beans, mushrooms, spicy corn, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce or hot salad, if desired",
+        "price": "6.99"
+      }
+    ],
+    "Quesadilla": [{
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/807afb68-bba2-4a7f-be98-54586047d45b",
+        "title": "Quesadilla with chicken",
+        "description": "Cassadia with chicken - large chicken on a plate, 2 pieces of tortillas, plate peppers, mushrooms, beans, corn with spices, tomatoes, iceberg, cheese, olives, cream sauce, mayonnaise sauce or hot salad on desire ",
+        "price": "6.69"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/ffb24714-946d-43a8-a732-501cd742bd8c",
+        "title": "Quesadilla with veal",
+        "description": "beef roast or minced meat, 2 pieces of tortilla tortilla, plate peppers, mushrooms, beans, corn with spices, tomatoes, iceberg, cheese, olives, cream sauce, mayonnaise sauce or hot salad",
+        "price": "7.69"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/005c9ff4-61ae-4fa4-a204-3a14db63856f",
+        "title": "Vegetarian Quesadilla",
+        "description": "2pcs tortillas, plate peppers, plate onions, mushrooms, beans, corn with spices, tomatoes, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "6.19"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/3d0b6a8c-9b56-46d9-bf3c-f69d2e3b30f8",
+        "title": "Quesadilla with Pork",
+        "description": "pork roast, 2 tortilla tortillas, plate peppers, mushrooms, beans, corn with spices, tomatoes, iceberg, yellow cheese, olives, cream sauce, mayonnaise sauce or hot salad",
+        "price": "6.69"
+      }
+    ],
+    "Taco": [{
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/fcbc8d58-2e69-4b91-8dfe-b8ff8920023c",
+        "title": "Chicken Taco (250g)",
+        "description": "tortilla tortilla 16cm, chicken on a plate, tomatoes, corn, olives, yellow cheese, iceberg, cream or mayonnaise sauce",
+        "price": "3.49"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/6681a3c8-17df-42db-a09a-aed0a327e226",
+        "title": "Taco with beef roasted meat (250g)",
+        "description": "tortilla tortilla 16cm, veal minced meat, tomatoes, corn, olives, yellow cheese, iceberg, cream or mayonnaise sauce",
+        "price": "3.99"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/2a0560e8-b93a-405d-9f44-86fcde00069d",
+        "title": "Pork Taco (250g)",
+        "description": "16cm tortilla cake, pork roast, tomatoes, corn, olives, yellow cheese, iceberg, cream or mayonnaise sauce",
+        "price": "3.49"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/6f9e8892-4a28-4c99-ab24-57179a1424b9",
+        "title": "Tacos Veggie (250g)",
+        "price": "2.99"
+      }
+    ],
+    "Burrito In A Bowl": [{
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/eb8cb594-0317-4f1c-8840-cd70bd6d34c3",
+        "title": "Burrito Vegetarian in a Bowl (450g)",
+        "description": "rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "6.99"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/e9c18f00-8e49-40e0-b723-da78c7e8ce6c",
+        "title": "Burrito with chicken in a bowl(450g)",
+        "description": "chicken, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "7.99"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/277179e4-104b-477b-8c7b-9b8b55b9161d",
+        "title": "Burrito with beef in a bowl (450g)",
+        "description": "veal, rice, plate peppers, onion, red beans, spiced corn, tomatoes, iceberg, yellow cheese, cream sauce or mayonnaise sauce, hot salts if desired",
+        "price": "8.99"
+      },
+      {
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/2a65093d-b681-4257-916b-77eccaf2c5e6",
+        "title": "Burrito with pork in a bowl (450g)",
+        "description": "pork, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad",
+        "price": "7.99"
+      }
+    ]
+  }

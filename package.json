@@ -1,0 +1,42 @@
+{
+    "private": true,
+    "scripts": {
+        "dev": "npm run development",
+        "ngrok": "./ngrok http 8000",
+        "development": "cross-env NODE_ENV=development node_modules/webpack/bin/webpack.js --progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "watch": "npm run development -- --watch",
+        "watch-poll": "npm run watch -- --watch-poll",
+        "hot": "cross-env NODE_ENV=development node_modules/webpack-dev-server/bin/webpack-dev-server.js --inline --hot --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "prod": "npm run production",
+        "production": "cross-env NODE_ENV=production node_modules/webpack/bin/webpack.js --no-progress --hide-modules --config=node_modules/laravel-mix/setup/webpack.config.js",
+        "zipqr": "cp .env_qr .env && zip -r qr_maker.zip ./  -x \"ftiger.zip\"  -x \"ngrok\"  -x \"node_modules/*\"  -x \"*.git*\" -x \"*.DS_Store\"  -x \".env_ft\" -x \".env_qr\"",
+        "zipft": "cp .env_ft .env && zip -r ftiger.zip ./  -x \"qr_maker.zip\"  -x \"ngrok\" -x \"node_modules/*\"  -x \"*.git*\" -x \"*.DS_Store\"  -x \"public/js/appreact.js\"  -x \".env_ft\" -x \".env_qr\"",
+        "zipupdate": "cat .diff-files.txt | zip -@ update.zip"
+    },
+    "devDependencies": {
+        "@babel/preset-react": "^7.0.0",
+        "axios": "^0.19",
+        "bootstrap": "^4.1.0",
+        "cross-env": "^5.1",
+        "jquery": "^3.2",
+        "laravel-echo": "^1.9.0",
+        "laravel-mix": "^4.0.7",
+        "laravel-mix-workbox": "^0.1.2",
+        "lodash": "^4.17.13",
+        "popper.js": "^1.12",
+        "pusher-js": "^7.0.2",
+        "react": "^16.2.0",
+        "react-dom": "^16.2.0",
+        "resolve-url-loader": "^2.3.1",
+        "sass": "^1.15.2",
+        "sass-loader": "^7.1.0",
+        "vue": "^2.5.17",
+        "vue-template-compiler": "^2.6.11",
+        "workbox-webpack-plugin": "^5.1.3"
+    },
+    "dependencies": {
+        "react-color": "^2.18.1",
+        "react-indiana-drag-scroll": "^1.6.1",
+        "react-qrbtf": "^1.2.1"
+    }
+}

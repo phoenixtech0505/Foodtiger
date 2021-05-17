@@ -1,0 +1,20 @@
+Admin orders
+NEW:       TB1: Just created, Accepted by admin, Accepted by restorant,
+Preparing: TB2: Assigned to driver, Prepared, Picked up
+Done:      TB3: Delivered, Rejected by admin or restorant
+
+
+Restorant orders
+NEW:       TB1: Just created (don't show), Accepted by admin
+Preparing: TB2: Accepted by restorant, Assigned to driver, Prepared
+Done:      TB3: Picked up, Delivered, Rejected by admin or restorant
+
+
+DEMO SEEDER
+Restorant
+Categories
+Menu Items
+Drivers
+Clients
+Orders
+

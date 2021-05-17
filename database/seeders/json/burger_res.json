@@ -1,0 +1,114 @@
+{
+    "Burgers": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/c8d27bcc-54da-4c18-b8e6-f1414c71612c",
+            "title": "Wild Wild West",
+            "description": "freshly baked brioche bread, 100% freshly ground beef Limousine, crispy bacon, melted cheddar, brewed in Skapto beer onion rings, homemade BBQ sauce",
+            "price": "8.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/4c2d9b73-685a-4252-84a3-6ba354f3a59c",
+            "title": "Skapto Bulleit Bourbon",
+            "description": "juicy 100% minced beef, crispy bacon, melted cheddar, homemade Bulleit bourbon sauce, homemade marinated red onion, pickles, iceberg",
+            "price": "10.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/643dd56b-684a-47f9-b72f-0fec59c16cb0",
+            "title": "Back to Basics",
+            "description": "juicy 100% minced beef, melted cheddar, pickles, iceberg, homemade Skapto sauce",
+            "price": "7.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/1084e812-7aa7-471c-9ae2-96dd5f561935",
+            "title": "Cheesus",
+            "description": "juicy 100% minced beef, crispy bacon, melted cheddar, fresh red onion, pickles, tomato, iceberg, lots of Hellman's mustard and ketchup",
+            "price": "9.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/7998ea89-e4b6-4021-ad47-6a1aa442e093",
+            "title": "Skaptoburger",
+            "description": "juicy 100% freshly ground veal, crispy bacon, melted cheddar, fresh red onion, iceberg, tomato, homemade spicy Skapto sauce",
+            "price": "9.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/5757558a-94d7-4ba9-b39c-2e258701f051",
+            "title": "El Pollo Loco",
+            "description": "Breaded until golden chicken fillet, crispy bacon, pickles, tomato, iceberg, mayonnaise and Hellman's mustard, barbecue sauce",
+            "price": "10.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/5bf2bb33-1b3b-4911-a7f0-618d17719ba2",
+            "title": "SA7OSH1",
+            "description": "juicy 100% minced beef, breaded to golden yellow, crispy bacon, melted cheddar, fresh red onion, arugula, homemade Skapto sauce",
+            "price": "12.99"
+        }
+    ],
+    "Garnish": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/aa05caca-d1c1-4b27-8615-78e8686b95e3",
+            "title": "Homemade french fries with ranch sauce (150g)",
+            "description": "French fries, homemade ranch dressing, cheddar cheese, fully ",
+            "price": "2.98"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/b3ee655e-29d2-4c35-86df-89b8200c9142",
+            "title": "Homemade french fries with cheddar and jalapenos (190g)",
+            "price": "3.97",
+            "description": "Olive oil, cheddar, green mix"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/86289e4c-360c-4e5c-aa02-8d2ba791d954",
+            "title": "Homemade french fries (100g)",
+            "description": "100g",
+            "price": "1.99"
+        }
+    ],
+    "Salads": [{
+        "image": "https://foodtiger.mobidonia.com/uploads/restorants/58d57b7a-8873-4559-94af-cf50501a1bfa",
+        "title": "Mexellente (350g)",
+        "description": "iceberg, red pepper, tomato, sweet corn, red beans, fresh red onions, parsley, lime juice, sweet chili sauce",
+        "price": "6.99"
+    }],
+    "Starters": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/b130e310-c024-49fa-99c2-1f0182b810f6",
+            "title": "Homemade Potatoes with Cheddar and Jalapenos (300g)",
+            "description": "Cheddar cheese, butter, russet potatoes, rings, all purpose flour",
+            "price": "6.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/dd0c87c9-d862-45a6-a933-7060d68c749c",
+            "title": "Homemade Potatoes with Ranch Sauce (300g)",
+            "description": "Sour cream, ranch dressing, bacon, potatoes, cheddar cheese",
+            "price": "5.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/3dfb1358-a853-4d7c-93f1-36eaf06ee2d7",
+            "title": "Cheddar Sticks (250g)",
+            "description": "String cheese, bread crumbs, smoked paprika, egg",
+            "price": "7.99"
+        }
+    ],
+    "Drinks": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/5f3c11e2-8cf0-4512-b982-0b57e8b8eb07",
+            "title": "Schweppes Tonic (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/d592d42c-9818-481d-99b1-b8dc54dbe731",
+            "title": "Sprite (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/ca815d62-cdf8-4799-98c4-0e8f557b2659",
+            "title": "Orange Fanta (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/6dfb661a-cc55-4c27-b223-504b047c7e1a",
+            "title": "Coca Cola (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        }
+    ]
+}

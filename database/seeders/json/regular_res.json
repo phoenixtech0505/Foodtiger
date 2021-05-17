@@ -1,0 +1,154 @@
+{
+    "Salads": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/bd5292e7-e898-479d-8921-4c47a776ba82",
+            "title": "Caprese Salad (350gr)",
+            "description": "peeled tomatoes, mozzarella salad, Genovese pesto",
+            "price": "9.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/25ed56dc-45cc-473f-ad00-d4b449acc71a",
+            "title": "Caesar Salad (400g)",
+            "description": "iceberg, bacon, chicken breast, parmesan, Caesar sauce",
+            "price": "10.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/93641a19-dba6-4010-a852-0e88da83a01f",
+            "title": "Salad Napoli (350g)",
+            "description": "iceberg, arugula, cherry tomatoes, mozzarella salad, salad dressing: (Extra Virgin olive oil, Modena balsamic vinegar, honey and mustard)",
+            "price": "9.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/d3379607-df34-4ed0-8f87-8bb6f73ed16d",
+            "title": "Green tuna salad (400g)",
+            "description": "lettuce, cucumbers, tuna, olive, corn, lemon, salad dressing: (Extra Virgin olive oil, Modena balsamic vinegar, honey and mustard)",
+            "price": "9.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/2e7eb9a6-5307-4ec7-8cf8-86490d4c2363",
+            "title": "Green salad (350g)",
+            "description": "lettuce, cucumbers, radishes, onions, egg, salad dressing: (Extra Virgin olive oil, Modena balsamic vinegar, honey and mustard)",
+            "price": "7.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/f5a8b88d-9b94-44fc-9555-2f0fe043d624",
+            "title": "Greek Salad (500g)",
+            "description": "tomatoes, cucumbers, green pepper, red onion, olive, feta cheese, extra virgin olive oil",
+            "price": "9.99"
+        }
+    ],
+    "Pizza": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/f71ae2d7-f24f-4e1b-9bdd-7ab7143ce3c8",
+            "title": "Mozzarella Pizza",
+            "description": "tomato sauce, mozzarella sabelli, cherry tomatoes, olives, pesto sauce, extra virgin olive oil",
+            "price": "10.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/9b9886cb-5d4b-4bfe-a02a-dc3b94dae706",
+            "title": "Prosciutto crust pizza",
+            "description": "tomato sauce, mozzarella sabelli, prosciutto, arugula, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/4b26647d-52b8-43c5-8b62-708c99252c24",
+            "title": "Pepperoni Pizza",
+            "description": "tomato sauce, mozzarella Sabelli, Calabro salad (spicy), extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/e1e5559a-ca6d-4a34-80c6-b72c31d97d96",
+            "title": "Carriola Pizza",
+            "description": "tomato sauce, mozzarella sabelli, bacon, red onion, olives, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/a8e8c22a-84cd-48d0-971a-2c98e695e387",
+            "title": "Perugia Pizza",
+            "description": "tomato sauce, mozzarella sabelli, chicken fillet, red onion, fresh peppers, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/5c8fa7eb-bc11-42e1-a1a5-ffb0b3d7a6b7",
+            "title": "Pizza Napoli",
+            "description": "tomato sauce, mozzarella sabelli, ham, cherry tomatoes, emmental, arugula, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/9d180742-9fb3-4b46-8563-8c24c9004fd3",
+            "title": "Margarita Pizza",
+            "description": "tomato sauce, mozzarella Sabelli, extra virgin olive oil",
+            "price": "10.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/cb7372d0-73a8-4551-bc31-22035d9551c4",
+            "title": "Combo Pizza 50/50 (70cm)",
+            "price": "39.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/0102bebe-b6c4-46b0-9195-ee06bca71a37",
+            "title": "Capricciosa Pizza",
+            "description": "tomato sauce, mozzarella sabelli, ham, fresh mushrooms, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/0054144d-131c-4807-a209-cee855415182",
+            "title": "Quattro Formaggi Pizza",
+            "description": "cream (animal), mozzarella Sabelli, blue cheese, emmental, parmesan, extra virgin olive oil",
+            "price": "14.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/f77218a9-676e-434e-ac5b-4ae3dc5795b3",
+            "title": "Marco Polo Pizza",
+            "description": "tomato sauce, Sabelli mozzarella, chicken fillet, smoked cheese, corn, extra virgin olive oil",
+            "price": "14.99"
+        }
+    ],
+    "Burrito": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/3e571ad8-e161-4245-91d9-88b47d6d6770",
+            "title": "Burrito with chicken",
+            "description": "chicken on a plate, tortilla cake, rice, peppers on a plate, onion on a plate, red beans, mushrooms, corn with spices, tomatoes, olives, iceberg, yellow cheese, cream sauce, mayonnaise sauce or hot salad ",
+            "price": "6.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/cc167252-968b-4cf4-9964-86c6a5feba45",
+            "title": "Burrito Veggie",
+            "price": "5.99"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/c0895e35-f4f9-4113-96d7-ecae6d27ed2b",
+            "title": "Burrito with beef roast",
+            "description": "veal or minced meat (specify), tortilla bread, rice, plate peppers, onion, red beans, mushrooms, corn with spices, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce, or hot spit at will ",
+            "price": "8.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/4384df9b-9656-49d1-bfc1-9b5e85e1193a",
+            "title": "Burrito with pork",
+            "description": "pork roast, tortilla bread, rice, plate peppers, plate onion, red beans, mushrooms, spicy corn, tomatoes, iceberg, olives, yellow cheese, cream sauce, mayonnaise sauce or hot salad, if desired",
+            "price": "6.99"
+        }
+    ],
+    "Drinks": [{
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/5f3c11e2-8cf0-4512-b982-0b57e8b8eb07",
+            "title": "Schweppes Tonic (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/d592d42c-9818-481d-99b1-b8dc54dbe731",
+            "title": "Sprite (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/ca815d62-cdf8-4799-98c4-0e8f557b2659",
+            "title": "Orange Fanta (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        },
+        {
+            "image": "https://foodtiger.mobidonia.com/uploads/restorants/6dfb661a-cc55-4c27-b223-504b047c7e1a",
+            "title": "Coca Cola (330ml)",
+            "description": "(330ml.)",
+            "price": "2.49"
+        }
+    ]
+}
